@@ -7,3 +7,4 @@ I recommend using:
 [Forkyz](https://gitlab.com/Hague/forkyz/-/releases) on Android  
 [Puzzazz](https://apps.apple.com/us/app/puzzazz-crossword-puzzle/id516440494) on iOS  
 [Across Lite](https://www.litsoft.com/across/alite/download/) on Windows and Mac
+[Crossweird](https://solver.crossweirdpuzzles.com/) in browser
